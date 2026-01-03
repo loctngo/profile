@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 (also a generic Coding Lover) having an experience of building Web applications with Java / Maven / Grails / JavaScript / Knockout and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1M2ab3brepbfcXYMzZO6Av_QBijIJGBB5/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1t5tGS_-L7MUAIZklqRIb789NqHDoPwKL/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
