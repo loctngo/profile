@@ -222,14 +222,14 @@ const bigProjects = {
     "MASTER FINAL PROJECT & SOME COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/woodcutters.jpeg"),
+      image: require("./assets/images/woodcutters.png"),
       projectName: "WoodCutters",
       projectDesc:
         "A Cocos2d HTML5 game for Master Final Project at California State Polytechnic University - Pomona to demonstrate 2 parallel scheduling algorithms in non-preemptive mode (Multifit) and preemptive mode (Leung-Young).",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://billytngo.github.io/WoodCutters/"
+          url: "https://billytngo.github.io/woodcutters/"
         }
         //  you can add extra buttons here.
       ]
