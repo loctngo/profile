@@ -186,7 +186,7 @@ const workExperiences = {
       date: "Nov 2013 – Dec 2015",
       desc: "",
       descBullets: [
-        "Develop / Integrate self-service web-based PeakPortal where users can pay their billings and manage their subscriptions.",
+        "Develop self-service web-based PeakPortal where users can pay their billings and manage their subscriptions.",
         "Integrate PeakPortal with Zuora REST / SOAP API as core framework, and Salesforce API for CRM contacts.",
         "Write Netsuite custom script upon client requirements.",
         "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration."
