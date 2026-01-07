@@ -194,12 +194,12 @@ const workExperiences = {
     },
     {
       role: "Student Programmer",
-      company: "Portland State University | ARC",
+      company: "Portland State University",
       companylogo: require("./assets/images/psu.png"),
       date: "Oct 2011 – Oct 2013",
       desc: "",
       descBullets: [
-        "Develop / Customize PSU-client Drupal websites with back-end (PHP, Bash Scripting), and front-end (HTML, CSS, JavaScript, Jquery, JqueryUI).",
+        "Join Academic & Research Computing (ARC) team to develop Drupal websites for University clients with back-end (PHP, Bash Scripting), and front-end (HTML, CSS, JavaScript, jQuery, jQueryUI).",
         "Work on Python Selenium RC to automate the modification of data (in JSON) for Graduate School of Education (Continuing Education - CEED).",
         "Research web open-source technologies and web security techniques.",
         "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration."
