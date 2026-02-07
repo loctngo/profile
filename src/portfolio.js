@@ -32,9 +32,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/billytngo",
-  linkedin: "https://www.linkedin.com/in/billy-ngo/",
-  facebook: "https://www.facebook.com/billy.ngo.397/",
+  github: "https://github.com/loctngo",
+  linkedin: "https://www.linkedin.com/in/loctngo/",
+  facebook: "https://www.facebook.com/loctngo89/",
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
@@ -231,7 +231,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://billytngo.github.io/woodcutters/"
+          url: "https://loctngo.github.io/woodcutters/"
         }
         //  you can add extra buttons here.
       ]
