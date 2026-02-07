@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Billy Ngo",
-  title: "Hi all, I'm Billy",
+  username: "Loc Ngo",
+  title: "Hi all, I'm Loc (Billy)",
   subTitle: emoji(
     "A passionate Full Stack Software Engineer 🚀 (also a generic Coding Lover) having an experience of building web applications with Java / Maven / Grails / JavaScript / KnockoutJS and some other cool libraries and frameworks."
   ),
