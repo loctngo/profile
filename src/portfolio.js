@@ -114,6 +114,7 @@ const educationInfo = {
       logo: require("./assets/images/cpp.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "January 2016 - August 2017",
+      gpa: "4.0",
       desc: "Took advanced courses in Computer Science:",
       descBullets: [
         "Advanced Data Structure & Algorithms",
@@ -128,6 +129,7 @@ const educationInfo = {
       logo: require("./assets/images/psu.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2007 - August 2013",
+      gpa: "3.61",
       desc: "Took courses in Computer Science:",
       descBullets: [
         "Discrete Maths I & II",
