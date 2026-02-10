@@ -23,7 +23,7 @@ const greeting = {
   username: "Loc Ngo",
   title: "Hi all, I'm Loc",
   subTitle: emoji(
-    "A passionate Full Stack Software Engineer 🚀 (also a generic Coding Lover) having an experience of building web applications with Java / Maven / Grails / JavaScript / KnockoutJS and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Engineer 🚀 having an experience of building web applications with Java / Maven / Grails / JavaScript / KnockoutJS and some other cool libraries and frameworks."
   ),
   showResume: true, // Set false to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
