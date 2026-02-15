@@ -24,6 +24,7 @@ export default function AchievementCard({cardInfo, isDark}) {
         <h5 className={isDark ? "dark-mode card-title" : "card-title"}>
           {cardInfo.title}
         </h5>
+        <div className={isDark ? "dark-mode card-subtitle" : "card-subtitle"}>{cardInfo.date}</div>
         <p className={isDark ? "dark-mode card-subtitle" : "card-subtitle"}>
           {cardInfo.description}
         </p>
