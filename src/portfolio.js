@@ -276,8 +276,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Google Code Jam • Round 2",
-      date: "May 2022",
-      subtitle: "Top 2500th contestant",
+      subtitle: "Top 2500th contestant - May 2022",
       image: require("./assets/images/google_code_jam.png"),
       imageAlt: "Google Code Jam Logo",
       footerLink: [
@@ -289,8 +288,7 @@ const achievementSection = {
     },
     {
       title: "Meta Hacker Cup • Round 2",
-      date: "September 2021",
-      subtitle: "Top 1500th contestant • T-Shirt winner",
+      subtitle: "Top 1500th contestant - Sep 2021",
       image: require("./assets/images/meta_hacker_cup.png"),
       imageAlt: "Meta Hacker Cup Logo",
       footerLink: [
@@ -303,8 +301,7 @@ const achievementSection = {
 
     {
       title: "Intl Achievement Scholarship",
-      date: "March 2011",
-      subtitle: "Awarded at Portland State University",
+      subtitle: "Awarded at Portland State University - Mar 2011",
       image: require("./assets/images/psu-ias.jpg"),
       imageAlt: "PWA Logo",
       footerLink: []
